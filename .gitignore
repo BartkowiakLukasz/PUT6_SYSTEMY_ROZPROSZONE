@@ -1,0 +1,6 @@
+docker/*
+*.txt
+*.md
+Dockerfile
+*.o
+gardener
